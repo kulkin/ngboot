@@ -1,0 +1,14 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Angular ###
+/ngboot-web/node
+/ngboot-web/node_modules
+/ngboot-web/dist
+npm-debug.log
